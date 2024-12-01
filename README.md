@@ -1,2 +1,2 @@
-# About
+# Game Tracker
 Game Tracker is an application designed for gamers who enjoy organizing and keeping track of their completed games. It allows users to store and edit detailed records. The project is built using CustomTkinter for the graphical user interface and SQLAlchemy for managing the database.  In the future, there may be an update to the interface style, offering a more refined and visually appealing user experience.
