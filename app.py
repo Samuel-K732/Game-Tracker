@@ -6,8 +6,6 @@ from tkcalendar import DateEntry
 from db_management import get_names, get_years, new_entry, get_game_by_name, edit_entry, delete_entry, delete_all_data
 import io
 
-TITLE_FONT = ("Open San", 20)
-
 
 class AddWindow(customtkinter.CTkToplevel):
     def __init__(self, master):
