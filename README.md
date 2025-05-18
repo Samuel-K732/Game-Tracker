@@ -11,3 +11,7 @@ To edit an already added entry, select it from the dropdown list and click the E
 If, for any reason, you have created many unnecessary or erroneous entries, you can go to the Options menu and select Delete All Data to completely clear the database and start fresh. More functionality will be added to the Options menu in future updates.
 
 Enjoy using the app!
+
+![1](https://github.com/user-attachments/assets/749258b1-e90b-4d7d-b4b9-f19864f6e04a)
+
+![2](https://github.com/user-attachments/assets/0d15c2d2-78d9-40d7-a72d-d9474da0a080)
