@@ -12,6 +12,8 @@ If, for any reason, you have created many unnecessary or erroneous entries, you 
 
 Enjoy using the app!
 
-![1](https://github.com/user-attachments/assets/749258b1-e90b-4d7d-b4b9-f19864f6e04a)
+![1](https://github.com/user-attachments/assets/046ae28f-3003-474d-9969-c6cc7abc7109)
 
-![2](https://github.com/user-attachments/assets/0d15c2d2-78d9-40d7-a72d-d9474da0a080)
+![2](https://github.com/user-attachments/assets/8b763ab3-7258-45d2-9301-cac66afd456f)
+
+
